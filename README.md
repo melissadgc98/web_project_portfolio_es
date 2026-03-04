@@ -11,3 +11,5 @@ El proyecto personal no tiene la información actualizada.
 La información proporcionada es de un personaje imaginario - idealmente sería destinado a una persona real y en especifico a mí como desarrolladora de la página.
 
 Para ofrecer un correcto funcionamiento de la página web se necesitaría al menos desarrollar los puntos sugeridos anteriormente.
+
+Enlace a GitHub Pages: https://github.com/melissadgc98/web_project_portfolio_es.git
